@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="pickMeUp:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts</output-path>
+    <root id="archive" name="pickMeUp_war exploded.war">
+      <element id="javaee-facet-resources" facet="pickMeUp_Application/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="pickMeUp_Application" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$USER_HOME$/Downloads/mysql-connector-java-5.1.45 2/mysql-connector-java-5.1.45-bin.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

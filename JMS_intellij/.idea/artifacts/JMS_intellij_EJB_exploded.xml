@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="JMS_intellij:EJB exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JMS_intellij_EJB_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JMS_intellij/ejb/EJB" />
+      <element id="module-output" name="JMS_intellij" />
+    </root>
+  </artifact>
+</component>
