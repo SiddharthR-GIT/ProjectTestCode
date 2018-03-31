@@ -1,0 +1,29 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="CometChat:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/CometChat_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="CometChat/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="CometChat" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$USER_HOME$/Downloads/bayeux-api-2.5.0.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/cometd-java-annotations-2.5.1.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/cometd-java-common-2.5.0-beta2.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/cometd-websocket-jetty-2.5.0-rc1.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/cometd-java-server-2.5.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../../javax.inject-1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../../jetty-util-7.6.7.v20120910.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../../jetty-continuation-7.6.7.v20120910.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../../jetty-http-7.6.7.v20120910.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../../jetty-io-7.6.7.v20120910.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../../jetty-websocket-7.6.7.v20120910.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../../jsr250-api-1.0.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/slf4j-api-1.6.0.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/slf4j-simple-1.6.1.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
