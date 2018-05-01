@@ -12,49 +12,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-            <file leaf-file-name="Journey.html" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/Journey.html">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="588">
-                    <caret line="156" column="9" selection-end-line="177" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-    <window id="2">
-      <content type="file-editors">
-        <state>
-          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-            <file leaf-file-name="test.html" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/test.html">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="599">
-                    <caret line="53" column="50" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="50" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Passenger.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Passenger.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+            <state relative-caret-position="746">
+              <caret line="196" selection-end-line="196" />
             </state>
           </provider>
         </entry>
@@ -85,8 +49,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
+    <option name="x" value="116" />
+    <option name="y" value="-306" />
+    <option name="width" value="1680" />
     <option name="height" value="952" />
   </component>
   <component name="ProjectView">
@@ -167,27 +132,29 @@
       <workItem from="1522319007179" duration="8587000" />
       <workItem from="1522408117968" duration="11554000" />
       <workItem from="1522456901570" duration="431000" />
-      <workItem from="1522490323021" duration="1894000" />
+      <workItem from="1522490323021" duration="3098000" />
+      <workItem from="1522679824585" duration="446000" />
+      <workItem from="1522745763333" duration="518000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22466000" />
+    <option name="totallyTimeSpent" value="24634000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="952" extended-state="0" />
+    <frame x="116" y="-306" width="1680" height="952" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15238096" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.32982457" />
-      <window_info anchor="bottom" id="Run" order="6" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="6" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -228,6 +195,20 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Passenger.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2940">
+          <caret line="196" selection-end-line="196" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Passenger.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2940">
+          <caret line="196" lean-forward="true" selection-end-line="196" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Passenger.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="945">
@@ -273,8 +254,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Passenger.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+        <state relative-caret-position="746">
+          <caret line="196" selection-end-line="196" />
         </state>
       </provider>
     </entry>
