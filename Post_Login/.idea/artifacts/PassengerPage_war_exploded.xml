@@ -9,6 +9,9 @@
         </element>
         <element id="directory" name="lib">
           <element id="file-copy" path="$USER_HOME$/Downloads/jar_files/google-maps-services-0.2.3.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/jar_files/joda-time-2.9.9.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/jar_files/error_prone_annotations-2.0.18.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/mysql-connector-java-5.1.45 2/mysql-connector-java-5.1.45-bin.jar" />
         </element>
       </element>
     </root>
